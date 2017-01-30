@@ -4,7 +4,7 @@ HomeKit compliant Home Automation System from Wifi Modules to Server
 ![](https://docs.google.com/uc?id=0BxOSr4OUvNOfQU1MRTBYV1FOSEU)
 <br>
 ## Wifi Modules
-Wifi modules implement NodeMcu hardware, various sensors and relays, casing and USB power supply. 
+Wifi modules implement NodeMcu hardware, various sensors, relays and are USB powered. 
 ### Boiler
 ### Rollers Shutters
 
