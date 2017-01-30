@@ -9,7 +9,7 @@ Wifi Modules aim to
 - Get informations from sensors (indoor temperature/humidity, in bed presence)
 
 Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, relays, PCB, USB power supply
-<br>
+<br><br>
 Firmware part for NodeMcu module is written in LUA
 ## Local Server
 Local server runs Ubuntu with Docker installed. 
