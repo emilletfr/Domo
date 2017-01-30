@@ -4,7 +4,7 @@ HomeKit compliant Home Automation System from Wifi Modules to Server
 ![](https://docs.google.com/uc?id=0BxOSr4OUvNOfQU1MRTBYV1FOSEU)
 <br>
 ## Wifi Modules
-Wifi modules aim to 
+Wifi Modules aim to 
 - Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
 - Get informations from sensors (indoor temperature/humidity, in bed presence)
 
