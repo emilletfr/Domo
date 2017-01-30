@@ -5,8 +5,8 @@ HomeKit compliant Home Automation System from Wifi Modules to Server
 <br>
 ## Wifi Modules
 Wifi modules aim to 
-- Command Boiler pomp, Boiler heater, Open/Close Rollers shutters
-- Get indoor temperature/humidity, in bed presence
+- Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
+- Get informations from sensors (indoor temperature/humidity, in bed presence)
 
 They implement NodeMcu hardware, various sensors, relays and are USB powered. 
 ## Local Server
