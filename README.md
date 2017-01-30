@@ -1,7 +1,7 @@
 # Domo
 HomeKit compliant Home Automation System from Wifi Modules to Server
 <br><br>
-![](https://docs.google.com/uc?id=0BxOSr4OUvNOfMTR3MTlhbHB3OFU)
+![](https://docs.google.com/uc?id=0BxOSr4OUvNOfc3ZJYy1weEZUbDA)
 <br>
 ## Wifi Modules
 Wifi Modules aim to 
