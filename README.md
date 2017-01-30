@@ -8,7 +8,7 @@ Wifi Modules aim to
 - Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
 - Get informations from sensors (indoor temperature/humidity, in bed presence)
 
-Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, relays, PCB, USB power supply
+Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, Relays, PCB, USB power supply, Casing.
 <br>
 Firmware part for NodeMcu module is written in LUA
 ## Local Server
