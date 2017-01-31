@@ -12,7 +12,7 @@ Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, Relays
 <br>
 Firmware part for NodeMcu module is written in LUA
 ## Local Server
-Local server is a x86-64 system and runs Ubuntu with Docker installed. The rest of stack components are docker images
+Local server is a x86-64 system which runs Ubuntu with Docker installed. The rest of stack components are docker images
 ### Vapor Stack
 Docker container that stacks Ubuntu, Swift and Vapor images.
 ### Portainer Stack
