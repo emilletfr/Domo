@@ -12,6 +12,10 @@ Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, Relays
 <br>
 Firmware part for NodeMcu module is written in LUA
 ## Local Server
+Local Server aim to 
+- Compute data from sensors/services (Sunrise/Sunset Time, Outdoor temperature), command actuators
+- Relay actions/datas from/to HomeKit
+
 Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are docker images.
 ### Vapor Stack
