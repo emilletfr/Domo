@@ -17,7 +17,7 @@ Role
 - Compute data from sensors, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit service
 - Command actuators in consequence
 
-Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
+Infrastructure is a x86-64 architecture system which runs Ubuntu with Docker installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are docker images.
 ### Vapor Stack
 Docker container that runs Ubuntu/Swift image and Vapor powered Server image.
