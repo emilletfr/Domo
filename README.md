@@ -14,7 +14,7 @@ Firmware part for NodeMcu module is written in LUA
 ## Local Server
 Role
 - Emulate iOS HomeKit API
-- Compute data from sensors, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit Service
+- Compute data from sensors, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit service
 - Command actuators in consequence
 
 Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
