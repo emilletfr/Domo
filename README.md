@@ -14,7 +14,7 @@ Firmware part for NodeMcu module is written in LUA
 ## Local Server
 Local Server aim to 
 - Compute data from sensors and services (Sunrise time, Sunset time, Outdoor temperature), command actuators
-- Relay actions/datas from/to HomeKit
+- Relay actions/datas from/to HomeKit Service
 
 Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are docker images.
