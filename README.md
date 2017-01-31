@@ -4,9 +4,9 @@ Describes my HomeKit compliant Home Automation System from Wifi Modules to Serve
 ![](https://docs.google.com/uc?id=0BxOSr4OUvNOfMWEwOHRkcnNvcU0)
 <br>
 ## Wifi Modules
-Role 
-- Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
+Role
 - Get informations from sensors (indoor temperature/humidity, bed occupancy)
+- Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
 
 Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, Relays, PCB, USB power supply, Casing.
 <br>
