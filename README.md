@@ -20,10 +20,10 @@ Role
 Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are docker images.
 ### Vapor Stack
-Docker container that runs Ubuntu/Swift image and Vapor image.
+Docker container that runs Ubuntu/Swift image and Vapor powered Server image.
 ### Portainer Stack
 Docker container that runs Portainer in order to ease Docker management.
 ### Homebridge Stack
-Container that runs in one image : Debian, Node.js, Homebridge and homebridge-httpeverything plugin.
+Container that runs (in one image) : Debian, Node.js, Homebridge and homebridge-httpeverything plugin.
 
 
