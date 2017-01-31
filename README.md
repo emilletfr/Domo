@@ -14,7 +14,7 @@ Firmware part for NodeMcu module is written in LUA
 ## Local Server
 Role
 - Emulate iOS HomeKit API
-- Compute data from sensors, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit service
+- Compute data from WiFi modules, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit service
 - Command actuators in consequence
 
 Infrastructure is a x86-64 architecture system which runs Ubuntu with [Docker](https://www.docker.com) installed and... that's all! 
