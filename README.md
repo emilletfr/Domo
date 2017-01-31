@@ -1,5 +1,5 @@
 # My Domo 🏠
-Describes my HomeKit compliant Home Automation System from WiFi Modules to Server
+Shares my HomeKit compliant Home Automation System from WiFi Modules to Server
 <br><br>
 ![](https://docs.google.com/uc?id=0BxOSr4OUvNOfMWEwOHRkcnNvcU0)
 <br>
