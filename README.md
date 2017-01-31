@@ -4,7 +4,7 @@ Describes my HomeKit compliant Home Automation System from Wifi Modules to Serve
 ![](https://docs.google.com/uc?id=0BxOSr4OUvNOfMWEwOHRkcnNvcU0)
 <br>
 ## Wifi Modules
-Wifi Modules aim to 
+Role: 
 - Command actuators (boiler pomp, boiler heater, open/close rollers shutters)
 - Get informations from sensors (indoor temperature/humidity, bed occupancy)
 
@@ -12,9 +12,10 @@ Hardware part is composed of NodeMcu module, Temperature/Humidity sensor, Relays
 <br>
 Firmware part for NodeMcu module is written in LUA
 ## Local Server
-Local Server aim to 
-- Compute data from sensors and services (Sunrise time, Sunset time, Outdoor temperature), command actuators
-- Relay actions/datas from/to HomeKit Service
+Role:
+- Emulate iOS HomeKit API
+- Compute data from sensors, services (Sunrise time, Sunset time, Outdoor temperature), HomeKit Service
+- Command actuators in consequence
 
 Local server is a x86-64 system which runs Ubuntu with Docker installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are docker images.
