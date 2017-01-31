@@ -23,7 +23,7 @@ Docker's magic operate in such a way that the rest of stack components are Docke
 Retrieve/Compute/Send datas from/to Wi-Fi modules, services, homebridge interface.<br>
 Container images and sources: [Ubuntu/Swift image](https://hub.docker.com/r/swiftdocker/swift/), Vapor powered Server image
 ### Portainer Stack
-Ease Docker management with a beautiful and useful graphic user interface.<br>
+Ease Docker management thanks to a beautiful and useful graphic user interface.<br>
 Container installation guide: [Portainer](http://portainer.io).
 ### Homebridge Stack
 Emulate iOS Homekit API, declare needed HomeKit accessories/services<br>
