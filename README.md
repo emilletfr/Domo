@@ -20,13 +20,13 @@ Role
 Infrastructure is a x86-64 architecture system which runs Ubuntu with [Docker](https://www.docker.com) installed and... that's all! 
 Docker's magic operate in such a way that the rest of stack components are Docker images.
 ### Vapor Stack
-Retrieve/Compute/Send datas from/to Wi-Fi modules, services, homebridge interface.
-container that runs [Ubuntu/Swift image](https://hub.docker.com/r/swiftdocker/swift/) and Vapor powered Server image.
+Retrieve/Compute/Send datas from/to Wi-Fi modules, services, homebridge interface.<br>
+Container that runs [Ubuntu/Swift image](https://hub.docker.com/r/swiftdocker/swift/) and Vapor powered Server image.
 ### Portainer Stack
-Ease Docker management with its graphic user interface.
+Ease Docker management with a useful graphic user interface.<br>
 Container that runs [Portainer](http://portainer.io).
 ### Homebridge Stack
-Emulate iOS Homekit API.
+Emulate iOS Homekit API, declare needed HomeKit accessories/services<br>
 Container that runs (in one image) : Debian, Node.js, Homebridge and homebridge-httpeverything plugin.
 
 
