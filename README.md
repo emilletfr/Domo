@@ -21,12 +21,15 @@ Infrastructure is a x86-64 architecture system which runs Ubuntu with [Docker](h
 Docker's magic operate in such a way that the rest of stack components are Docker images.
 ### Vapor Stack
 Retrieve/Compute/Send datas from/to Wi-Fi modules, services, homebridge interface.<br>
-Container that runs [Ubuntu/Swift image](https://hub.docker.com/r/swiftdocker/swift/) and Vapor powered Server image.
+Container images sources
+- [Ubuntu/Swift image](https://hub.docker.com/r/swiftdocker/swift/) 
+- Vapor powered Server image
+
 ### Portainer Stack
 Ease Docker management with a useful graphic user interface.<br>
-Container that runs [Portainer](http://portainer.io).
+Container installation guide: [Portainer](http://portainer.io).
 ### Homebridge Stack
 Emulate iOS Homekit API, declare needed HomeKit accessories/services<br>
-Container that runs (in one image) : Debian, Node.js, Homebridge and homebridge-httpeverything plugin.
+Container image sources: Debian, Node.js, Homebridge and homebridge-httpeverything plugin.
 
 
